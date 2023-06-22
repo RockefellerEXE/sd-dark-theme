@@ -1,0 +1,51 @@
+.kt-grid.kt-grid--hor:not(.kt-grid--desktop):not(.kt-grid--desktop-and-tablet):not(.kt-grid--tablet):not(.kt-grid--tablet-and-mobile):not(.kt-grid--mobile) > .kt-grid__item.kt-grid__item--fluid, .kt-grid.kt-grid--hor:not(.kt-grid--desktop):not(.kt-grid--desktop-and-tablet):not(.kt-grid--tablet):not(.kt-grid--tablet-and-mobile):not(.kt-grid--mobile) > .kt-grid__item.kt-grid__item--fluid{
+  background : black !important
+}
+
+.kt-grid.kt-grid--hor:not(.kt-grid--desktop):not(.kt-grid--desktop-and-tablet):not(.kt-grid--tablet):not(.kt-grid--tablet-and-mobile):not(.kt-grid--mobile) > .kt-grid__item {
+  background : black
+}
+
+.kt-login.kt-login--v3 .kt-login__wrapper .kt-login__container .kt-login__head .kt-login__title{
+  color : green
+}
+
+.form-control, .form-control:focus, .nav-pills .nav-item .nav-link{
+  color: white
+}
+.kt-login__title, .kt-login__extra, #kt_login_forgot{
+  color : white !important
+}
+.kt-portlet{
+  background: black
+}
+
+.kt-portlet .kt-widget19{
+  border-style: solid;
+  border-radius : 0px;
+  border-width: 5px;
+  border-color:gray;
+}
+h3, h3>a{
+  color : grey !important
+}
+.btn-success, .nav-link{
+  background : lightslategray;
+  border-color :  lightslategray;
+}
+.nav-tabs .nav-item .nav-link.active{
+  background:#22b9ff;
+  color : black
+}
+#kt_header_brand, #kt_header, #kt_aside_menu, .kt-header__topbar,
+.flaticon2-bell-alarm-symbol:before,
+i.flaticon2-bell-alarm-symbol{
+  background-color : DarkSlateGrey !important;
+}
+.card, .accordion.accordion-toggle-svg .card .card-header .card-title{
+  color : white !important;
+  background-color : DarkSlateGrey !important;
+}
+#noteuser{
+ background: DimGrey
+}
